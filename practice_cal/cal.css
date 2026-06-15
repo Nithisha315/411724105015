@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.cal{
+    background-color: bisque;
+}
+.button-grid{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: auto;
+    margin:3px;
+    padding: 5px;
+}
+.btn{
+    background-color:burlywood;
+    border-radius: 3px;
+    padding: 5px;
+    border: none;
+}
+.inp{
+    
+}
