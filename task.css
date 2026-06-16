@@ -32,8 +32,8 @@ button{
     margin:none;
     border:none;
 }
-button.hover{
-    background-color:beige;
+button:hover{
+    background-color:blueviolet;
 }
 .box {
     display: grid;
